@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
 <div> 
-
 <div class="buttons">
   <button class="duplicate">Duplicate card</button>
   <button class="changeTitle">Change Name</button>
@@ -39,6 +38,9 @@ function App() {
 </div>    
    
   );
-}
+
+
+  
+} 
 
 export default App;
